@@ -33,3 +33,5 @@ yarn start
 - [thirdweb SDK documentation](https://portal.thirdweb.com/typescript/v5)
 - [React components and hooks](https://portal.thirdweb.com/typescript/v5/react)
 
+
+<img width="654" alt="image" src="https://github.com/Chusynuk/nft-nukio/assets/4323435/67537f05-a649-499c-908f-61c919e80905">
