@@ -1,16 +1,6 @@
-# thirdweb SDK + Next.js starter
+# Summary
 
-## Setup client id
-
-Before you start, you need to replace the placeholder `clientId` with your client ID to use thirdweb SDK.
-
-Refer to [Creating a client](https://portal.thirdweb.com/typescript/v5/client) guide to see how you can get a client id.
-
-Go to `src/client.ts` file and replace the placeholder `clientId` with your client ID.
-
-```ts
-const clientId = "......";
-```
+This repo shows how to build a full NFT project from deploying your own ERC-721 NFT smart contract to build a frontend app to claim the NFT. Learn what an ERC-721 token is and how to setup you NFTs metadata.
 
 ## Usage
 
@@ -42,8 +32,4 @@ yarn start
 
 - [thirdweb SDK documentation](https://portal.thirdweb.com/typescript/v5)
 - [React components and hooks](https://portal.thirdweb.com/typescript/v5/react)
-- [thirdweb Dashboard](https://thirdweb.com/dashboard)
 
-## Join our Discord!
-
-For any questions or suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
